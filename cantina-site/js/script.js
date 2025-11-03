@@ -1,1 +1,1 @@
-console.log("Sistema da Cantina carregado!");
+console.log("Ola")
